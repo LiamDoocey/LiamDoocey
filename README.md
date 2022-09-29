@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/kbRb4eyCNC0aMz5x68" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/adultswim-computer-typing-hacking-kbRb4eyCNC0aMz5x68">via GIPHY</a></p>
+
+![RickHack](https://user-images.githubusercontent.com/74901944/192923647-c3a8c3f4-d1e1-439f-92ae-f1f3a3ca9d00.gif)
 
 <!--
 **LiamDoocey/LiamDoocey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
