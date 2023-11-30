@@ -3,4 +3,5 @@
 ![](https://komarev.com/ghpvc/?username=LiamDoocey&color=27d9f5)<br>
 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamDoocey&theme=github_dark&layout=compact&border_color=4C8EDA&card_width=445&border_radius=12)
+![Liams's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiamDoocey&count_private=true&theme=github_dark&show_icons=true&border_color=4C8EDA&border_radius=12)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamDoocey&theme=github_dark&layout=compact&border_color=4C8EDA&card_width=445&card_height=300&border_radius=12)
