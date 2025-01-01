@@ -2,6 +2,8 @@
   <img src="https://github.com/user-attachments/assets/e2532c05-052a-43e6-b84a-8ad00e4e1ebb" alt="Animated GIF" width="300">
 </p>
 
+![Visitor Count](https://komarev.com/ghpvc/?username=LiamDoocey)
+
 ### Hi there 👋
 I'm Liam, a 4th year computer science student in SETU Waterford with a big interest in cyber security<br>
 
@@ -30,7 +32,7 @@ I'm Liam, a 4th year computer science student in SETU Waterford with a big inter
 - 🧠 AI/ML: Scikit-learn
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=LiamDoocey)
+
 
 
 
