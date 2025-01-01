@@ -1,8 +1,37 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e2532c05-052a-43e6-b84a-8ad00e4e1ebb" alt="Animated GIF" width="300">
+</p>
+
 ### Hi there 👋
-![RickHack](https://user-images.githubusercontent.com/74901944/192923647-c3a8c3f4-d1e1-439f-92ae-f1f3a3ca9d00.gif)<br>
-![](https://komarev.com/ghpvc/?username=LiamDoocey&color=27d9f5)<br>
+I'm Liam, a 4th year computer science student in SETU Waterford with a big interest in cyber security<br>
+
+## About Me
+
+🎓 I’m a final year student, curently in SETU Waterford<br> 
+✨ Passionate about cyber security, especially red teaming.<br>
+🌱 Currently learning machine learning.<br>  
 
 ## Stats
-![Liams's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiamDoocey&count_private=true&theme=github_dark&show_icons=true&border_color=4C8EDA&card_width=445&border_radius=12)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiamDoocey&theme=github_dark&layout=compact&border_color=4C8EDA&card_width=445&border_radius=12)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiamDoocey&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LiamDoocey&count_private=true&theme=vue-dark&show_icons=true&hide_border=true" alt="GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiamDoocey&theme=vue-dark&hide_border=true" alt="Streak Stats">
+</p>
+
+## Skills & Tools
+
+- 💻 Programming: Python, Java, JavaScript, Kotlin, APIs
+- 🌐 Web Development: React, Node.js, HTML/CSS
+- ⚙️ Tools: Git, VScode, VMware
+- 🧠 AI/ML: Scikit-learn
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=LiamDoocey)
+
+
+
+
