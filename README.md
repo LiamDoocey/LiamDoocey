@@ -28,7 +28,7 @@ I'm Liam, a 4th year computer science student in SETU Waterford with a big inter
 
 - 💻 Programming: Python, Java, JavaScript, Kotlin, APIs
 - 🌐 Web Development: React, Node.js, HTML/CSS
-- ⚙️ Tools: Git, VScode, VMware
+- ⚙️ Tools: Git, VScode, Intelij, VMware, Linux
 - 🧠 AI/ML: Scikit-learn
 
 
